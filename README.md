@@ -1,16 +1,11 @@
 # UAS_Covid
+Nama Kelompok:
+Nisaul Apriyanti      (362055401133)
+Nadiya Pramita Sari   (362055401130)
+Dimas Hendra Wijaya   (362055401129)
+Farida Ayu Ghaisani   (362055401122)
 
-A new Flutter project.
+## TAMPILAN
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (280)](https://user-images.githubusercontent.com/100395850/158177433-ec1f5eda-da82-45fc-85ff-66884ae67f60.png)
+![Screenshot (281)](https://user-images.githubusercontent.com/100395850/158177555-36eb5abe-680f-4b0a-b556-c6f5de4c3841.png)
